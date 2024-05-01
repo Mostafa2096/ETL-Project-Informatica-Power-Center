@@ -20,7 +20,8 @@ Extracted detailed information on top 5 balance holders, crucial for identifying
 ## 6️⃣ Highest and Lowest Credit Score Values
 Determined extreme credit score values, vital metrics for assessing creditworthiness.
 
-#Maps Screenshots
+
+# Maps Screenshots
 ## 1️ Sum of Balances for Male and Female Customers
 ![Screenshot (195)](https://github.com/Mostafa2096/ETL-Project-Informatica-Power-Center/assets/106194954/2801fbc5-30a7-411e-8a83-1d144d766200)
 ## 2️ Number of Active Male and Female Customers
