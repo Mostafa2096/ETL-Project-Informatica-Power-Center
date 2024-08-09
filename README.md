@@ -22,15 +22,15 @@ Determined extreme credit score values, vital metrics for assessing creditworthi
 
 
 # Maps Screenshots
-## 1️ Sum of Balances for Male and Female Customers
+## 1️
 ![Screenshot (195)](https://github.com/Mostafa2096/ETL-Project-Informatica-Power-Center/assets/106194954/2801fbc5-30a7-411e-8a83-1d144d766200)
-## 2️ Number of Active Male and Female Customers
+## 2️
 ![Screenshot (194)](https://github.com/Mostafa2096/ETL-Project-Informatica-Power-Center/assets/106194954/78c7a0ee-d57a-428e-95c7-5467ba5f83a5)
-## 3️ Customer Age Distribution
+## 3️
 ![Screenshot (193)](https://github.com/Mostafa2096/ETL-Project-Informatica-Power-Center/assets/106194954/afc6400d-478c-4b35-99b7-6d520d741deb)
-## 4️ Users with Available Balance Data
+## 4️
 ![Screenshot (192)](https://github.com/Mostafa2096/ETL-Project-Informatica-Power-Center/assets/106194954/b1d1975d-0196-4b65-81b8-45b8776fac4b)
-## 5️ Top 5 Balances
+## 5️
 ![Screenshot (191)](https://github.com/Mostafa2096/ETL-Project-Informatica-Power-Center/assets/106194954/ff4a90a5-6f6e-46ea-838a-485479e37f85)
-## 6 Highest and Lowest Credit Score Values
+## 6
 ![Screenshot (190)](https://github.com/Mostafa2096/ETL-Project-Informatica-Power-Center/assets/106194954/b371aadb-343d-4a4d-8d12-ffd55c012fca)
